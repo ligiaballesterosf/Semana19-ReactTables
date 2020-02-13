@@ -1,0 +1,13 @@
+.add-item {
+    display       : flex;
+    flex-direction: column;
+    width         : 300px;
+    align-items   : center;
+    padding-bottom: 10px;
+    border        : 1px solid black;
+    margin: 100px;
+}
+
+.add-item button {
+    width: 30%;
+}
